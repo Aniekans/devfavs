@@ -13,6 +13,7 @@
 
   --display: 'Fraunces', Georgia, 'Times New Roman', serif;
   --sans: 'Instrument Sans', 'Segoe UI', sans-serif;
+  --hero: 'Inter', 'Segoe UI', sans-serif;
 
   --space-section: clamp(4.5rem, 10vw, 8rem);
   --space-gutter: clamp(1.25rem, 4vw, 3.5rem);
